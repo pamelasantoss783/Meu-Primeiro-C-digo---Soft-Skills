@@ -1,0 +1,30 @@
+body{
+    background-color: #F08080;
+    color: white;
+    
+}
+
+.topo{
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.meio{
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    margin: 20px;
+    line-height: 18px;
+}
+
+.fim{
+    margin: 20px;
+}
+
+a:link {
+    color: black;
+ }
